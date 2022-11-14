@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WayneCheckBoxes</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="cplus">Cplus</string>
+    <string name="button">Button</string>
+    <string name="titre">Titre</string>
+    <string name="textView">textView</string>
+</resources>
